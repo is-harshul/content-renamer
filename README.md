@@ -3,7 +3,6 @@
 [![npm version](https://img.shields.io/npm/v/content-renamer.svg?logo=npm)](https://www.npmjs.com/package/content-renamer)
 [![npm downloads](https://img.shields.io/npm/dm/content-renamer.svg?logo=npm)](https://www.npmjs.com/package/content-renamer)
 [![GitHub stars](https://img.shields.io/github/stars/is-harshul/content-renamer.svg?logo=github)](https://github.com/is-harshul/content-renamer/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/is-harshul/content-renamer.svg?logo=github)](https://github.com/is-harshul/content-renamer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/is-harshul/content-renamer.svg?logo=github)](https://github.com/is-harshul/content-renamer/network/members)
 [![license](https://img.shields.io/npm/l/content-renamer.svg)](https://github.com/is-harshul/content-renamer/blob/main/LICENSE)
 [![node version](https://img.shields.io/node/v/content-renamer.svg?logo=node.js)](https://www.npmjs.com/package/content-renamer)
